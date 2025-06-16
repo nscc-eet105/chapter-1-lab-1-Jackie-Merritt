@@ -1,0 +1,7 @@
+print("Roses are red")
+print("Violets are blue")
+print("I fart in the general direction of you")
+print("Your mother was a rodent")
+print("Your father smelt of grapes")
+print("And in the end, they both predate apes")
+print("Jackie Merritt")
